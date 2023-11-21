@@ -17,5 +17,5 @@ RUN chmod g+rwx /var/cache/nginx /var/run /var/log/nginx && \
 WORKDIR /usr/share/nginx/html/
 EXPOSE 8081
 
-# Hola
+# Holas
 USER nginx:root
